@@ -1,3 +1,5 @@
+This code uses the Options_Math classes and modules to analyze Bitcoin options on Deribit.
+
 # Deribit.xlsx and Methods_xlWings
 The code below will output most of the data to the excel spreadsheet via xlWings and the shortcuts contained in the .py file.
 
